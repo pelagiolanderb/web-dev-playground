@@ -55,3 +55,5 @@ In React JS, I installed the following:
     > Purpose: HTTP Requests
 
     > Description: A promise-based HTTP client for making API requests.
+
+>> npm install bootstrap@5.3.3

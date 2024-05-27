@@ -1,10 +1,10 @@
-import SignupForm from "./SignUpForm";
+import LoginForm from "./components/LoginForm";
+import RegistrationForm from "./components/RegistrationForm";
+import StoreRouter from "./router/StoreRouter";
 
 function App() {
   return (
-    <div className="App">
-      <SignupForm />
-    </div>
+    <StoreRouter />
   );
 }
 
